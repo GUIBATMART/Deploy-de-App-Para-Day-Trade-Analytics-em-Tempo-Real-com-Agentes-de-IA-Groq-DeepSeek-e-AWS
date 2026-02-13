@@ -89,4 +89,4 @@ Desenvolvido por **Guilherme Batista**
 
 ## 📢 Observação
 
-Este projeto possui fins educacionais e demonstrativos, não configurando recomendação oficial de investimento.
+Este projeto possui fins educacionais e demonstrativos.
